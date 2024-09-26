@@ -1,0 +1,1 @@
+print("Smart Interviews done now started it on my own")
